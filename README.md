@@ -2,4 +2,4 @@
 
 # Other configurations yet to be made.
 
-Learn more at https://platservices.xyz.
+Made for the purpose of [PS.XYZ](https://platservices.xyz).
